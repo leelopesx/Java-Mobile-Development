@@ -23,6 +23,8 @@ public class Introducao {
         preco = 23.5;
         desconto10 = preco*0.9;
         System.out.println("O valor com 10% de desconto será  " + desconto10);
+
+        // Utilizando apenas duas casas decimais
         System.out.printf("%s%.2f\n", "O valor com 10% de desconto será  " , desconto10);
 
     }
