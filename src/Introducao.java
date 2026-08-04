@@ -68,6 +68,5 @@ public class Introducao {
 
         le.close(); // Finalização do Scanner (para desocupar na memória)
 
-        // Exercicio 03 (condicional)
     }
 }
